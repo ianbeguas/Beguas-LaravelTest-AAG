@@ -34,10 +34,11 @@ Compiled Instruction
 9. php artisan serve
 
 System Accounts
+
 Admin:
-admin@gmail.com
-beguasian2
+email: admin@gmail.com
+Password: beguasian2
 
 User: 
-ianbeguas@gmail.com
-beguasian2
+email: ianbeguas@gmail.com
+password: beguasian2
